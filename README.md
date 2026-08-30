@@ -2,6 +2,7 @@
 
 ### About Me
 
+- 🌴 I'm retired.
 - 🔭 I’m currently working on refining Panchanga calculations with iCal and Markdown table outputs.
 - 🌱 I’m currently learning Zig (for some reason).
 - 💬 Ask me about Obsidian.md
