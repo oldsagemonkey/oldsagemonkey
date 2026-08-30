@@ -5,6 +5,8 @@
 - 🌴 I'm retired.
 - 🔭 I’m currently working on refining Panchanga calculations with iCal and Markdown table outputs.
 - 🌱 I’m currently learning Zig (for some reason).
+- 🕕 I spend most of my time traveling
+- 🌐 I have 5 social media accounts and I don't use any of them.
 - 💬 Ask me about Obsidian.md
 - 📫 How to reach me: Good luck with that.
 - ⚡ Fun fact: I'm still as obsessed with Python as I ever was, and you'll have to pry it out of my cold, dead hands.
