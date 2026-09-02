@@ -15,3 +15,4 @@
 - `brew install mole` The best macOS cleaner and optimizer.
 - `brew install lazygit` Fantastic terminal UI for Git.
 - `brew install tmux` For obvious reasons.
+- `brew install fabric-ai` Integrate AI into the command-line in a useful way.
