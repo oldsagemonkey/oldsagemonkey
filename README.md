@@ -17,5 +17,5 @@
 - `brew install fd` A cleaner, more useful alternative to find.
 - `brew install lazygit` Fantastic terminal UI for Git.
 - `brew install tmux` For obvious reasons.
-- `brew install fzf` Command-line fuzzy finder.
+- `brew install yazi` A useful command-line file manager.
 - `brew install fabric-ai` Integrate AI into the command-line in a useful way.
