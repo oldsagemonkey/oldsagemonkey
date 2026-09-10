@@ -13,6 +13,7 @@
 ### Favorite Homebrews
 
 - `brew install mole` The best macOS cleaner and optimizer.
+- `brew install glow` A useful command-line markdown renderer.
 - `brew install eza` A file-listing program that replaced `ls`.
 - `brew install gh` Github for the CLI.
 - `brew install ripgrep` A faster alternative to grep.
