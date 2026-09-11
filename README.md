@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning to be here now.
 - 🕕 I spend most of my time traveling
 - 🌐 I have 5 social media accounts and I don't use any of them.
+- 📺 I do have a YouTube channel, however.
 - 💬 I use [Obsidian.md](https://obsidian.md). It's practically a kiosk at this point.
 - 📫 How to reach me: Good luck with that. Try the local shaman.
 
